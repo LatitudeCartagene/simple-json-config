@@ -1,5 +1,9 @@
 {
-  "name": "simple-json-config",
+  "name": "thiphariel/simple-json-config",
+  "description": "Simple JSON config loader in PHP",
+  "require": {
+      "php": ">=5.3.0"
+  },
   "authors": [
     {
       "name": "Thiphariel",
