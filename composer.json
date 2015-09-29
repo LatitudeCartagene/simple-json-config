@@ -1,0 +1,14 @@
+{
+  "name": "simple-json-config",
+  "authors": [
+    {
+      "name": "Thiphariel",
+      "email": "thiphariel@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Simple\\Config\\": "src/"
+    }
+  }
+}
