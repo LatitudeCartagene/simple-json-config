@@ -1,8 +1,8 @@
 <?php
 
-namespace Simple\Config\Parser;
+namespace Simple\Parser;
 
-use Simple\Config\Exception\ParseException;
+use Simple\Exception\ParseException;
 
 class JSONParser
 {

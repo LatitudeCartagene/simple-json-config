@@ -1,9 +1,9 @@
 <?php
 
-namespace Simple\Config;
+namespace Simple;
 
-use Simple\Config\Parser\JSONParser;
-use Simple\Config\Exception\FileNotFoundException;
+use Simple\Parser\JSONParser;
+use Simple\Exception\FileNotFoundException;
 
 class Config
 {

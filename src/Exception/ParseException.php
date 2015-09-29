@@ -1,6 +1,6 @@
 <?php
 
-namespace Simple\Config\Exceptions;
+namespace Simple\Exceptions;
 
 use ErrorException;
 
