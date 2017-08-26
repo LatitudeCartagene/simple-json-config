@@ -1,13 +1,13 @@
 {
-  "name": "thiphariel/simple-json-config",
+  "name": "latitude/json-config-file",
   "description": "Simple JSON config loader in PHP",
   "require": {
       "php": ">=5.3.0"
   },
   "authors": [
     {
-      "name": "Thiphariel",
-      "email": "thiphariel@gmail.com"
+      "name": "Latitude Cartagene",
+      "email": "dev@latitude-cartagene.com"
     }
   ],
   "autoload": {
