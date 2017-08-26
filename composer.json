@@ -1,5 +1,5 @@
 {
-  "name": "latitude/json-config-file",
+  "name": "latitude/simple-json-config",
   "description": "Simple JSON config loader in PHP",
   "require": {
       "php": ">=5.3.0"
